@@ -1,16 +1,20 @@
-# toko_online
+# product-catalog-with-flutter-2.2-crud
 
-A new Flutter project.
+This is a simple CRUD mobile apps created with Flutter 2.2 (Product Catalog Series).
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+<h4 align="left">Product Catalog Mobile Apps:</h4>
+<p align="left"> 
+    <img src="https://github.com/hairulloh-sukur/product-catalog-with-flutter-2.2-crud/blob/master/screenshot/Show_Products.png" width="200"/>  
+    <img src="https://github.com/hairulloh-sukur/product-catalog-with-flutter-2.2-crud/blob/master/screenshot/Detail_Product.png" width="200"/>  
+    <img src="https://github.com/hairulloh-sukur/product-catalog-with-flutter-2.2-crud/blob/master/screenshot/Add_Product.png" width="200"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<h4 align="left">REST API (Laravel 8):</h4>
+<p align="left">
+  <img src="https://github.com/hairulloh-sukur/product-catalog-with-flutter-2.2-crud/blob/master/screenshot/REST_API.png" width="800"/>  
+  
+  <a href="https://github.com/hairulloh-sukur/product-catalog-with-laravel-8-crud-api" target="_blank"> product-catalog-with-laravel-8-crud-api</a> 
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
