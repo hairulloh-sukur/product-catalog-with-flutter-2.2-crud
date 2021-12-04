@@ -1,4 +1,6 @@
-<img src="https://flutter.dev/assets/flutter-lockup-1caf6476beed76adec3c477586da54de6b552b2f42108ec5bc68dc63bae2df75.png" width=25% height=25%/> 
+<img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" width=25% height=25%/> 
+
+<br>
 
 # product-catalog-with-flutter-2.2-crud
 
